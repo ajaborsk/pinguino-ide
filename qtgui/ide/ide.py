@@ -15,7 +15,7 @@ from .helpers.config import Config
 from ..frames.main import Ui_PinguinoIDE
 from pinguino.pinguino import Pinguino, AllBoards
 
-from .helpers.namespaces import Namespaces
+
 
 from .code_editor.autocomplete_icons import CompleteIcons
 
